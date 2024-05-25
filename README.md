@@ -1,4 +1,4 @@
-# Can Reinforcemente Learning be applied to surgery? - An Autonomous and Adaptive Systems Project
+# Can Reinforcement Learning be applied to surgery? - An Autonomous and Adaptive Systems Project
 This is the project I did for my Autonomous and Adaptive Systems exam. Below, you will find a detailed report.
 
 ![download](https://github.com/agozz/Can_RL_be_applied_to_surgery-An_AAS_Project/assets/84788782/8d28182d-edce-4eb6-81c1-0ed67b99d6b5)
